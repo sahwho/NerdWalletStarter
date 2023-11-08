@@ -1,3 +1,3 @@
 # NerdWalletStarter
  
-The files you care about are in /src/
+The files you care about are in src/
